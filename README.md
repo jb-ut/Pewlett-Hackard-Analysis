@@ -9,7 +9,7 @@ Purpose of the analysis was to identify the number of retiring employees based o
 3. Less than 2000 people qualify for mentorship.
 4. Senior engineers have a prioritized position for mentorships
 
-![image](https://github.com/jb-ut/Election_Analysis/blob/main/Resources/election_results.PNG)
+![image](https://github.com/jb-ut/Pewlett-Hackard-Analysis/blob/main/mentorship_eligibility.PNG)
 
 ## Summary
 There will need to be a program to encourage more people to apply for positions that have more people retiring. New employees should be incentivized to stay longer.
