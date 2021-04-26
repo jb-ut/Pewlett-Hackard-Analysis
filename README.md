@@ -4,14 +4,13 @@
 Purpose of the analysis was to identify the number of retiring employees based on job title. I was also tasked with identifying those people eligible to participate in a mentorship program.
 
 ## Results
-1. Interstingly Holden High performed very well. It should be looked at as an example for schools under 100 students. 
-2. Larger schools like Bailey High School and Roriguez High School need to review performance particularily in math.
-3. Cabrera High School should had incredible results considereing that the studen tbody is over 1000/
-4. Griffith High School had a near perfect average for Reading.
+1. There are more people retiring than there are mentors
+2. Over a fourth of retirees are Senior Engineers
+3. Less than 2000 people qualify for mentorship.
+4. Senior engineers have a prioritized position for mentorships
 
 ## Summary
-Overall most woould think larger schools would perform better,but looking at the data reveals a different picture. Schools greater than 1000 students had many instances of sub-60% overall passing. Smaller schools performed very well. 
+There will need to be a program to encourage more people to apply for positions that have more people retiring. New employees should be incentivized to stay longer.
 
-Additional Insight
-1. Average years of experience for teachers.
-2. School budget
+1. Create a list of length of employment
+2. Encourage more peeople ro sigm up for Senior Engineers
